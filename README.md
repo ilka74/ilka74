@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Привет! Я [Ваше Имя]
+
+Я Python backend разработчик с опытом работы в:
+- Разработке RESTful API
+- Работе с базами данных (PostgreSQL, MySQL)
+- Использовании фреймворков (Django, Flask)
+
+## Навыки
+- Python
+- SQL
+- Docker
+- Git
+
+## Контакты
+- [Ваш Email](mailto:example@example.com)
+- [Ваш LinkedIn](https://www.linkedin.com/in/ваш-профиль)
