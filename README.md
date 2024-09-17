@@ -1,4 +1,4 @@
-## Hi there 👋
+# Привет, меня зовут Илья 👋
 
 <!--
 **ilka74/ilka74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Привет! Я [Ваше Имя]
 
-Я Python backend разработчик с опытом работы в:
+
+### Я Python-разработчик с опытом работы в:
 - Разработке RESTful API
 - Работе с базами данных (PostgreSQL, MySQL)
 - Использовании фреймворков (Django, Flask)
