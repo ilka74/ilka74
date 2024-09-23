@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - Работе с базами данных (PostgreSQL, MySQL)
 - Использовании фреймворков (Django, Flask)
 
+####  Имею высшее техническое образование по специальности "Пользователь систем автоматизированного проектирования", а также опыт работы в IT сфере с 1996 года.
+
 ## Навыки
 - Python
 - SQL
@@ -30,4 +32,4 @@ Here are some ideas to get you started:
 
 ## Контакты
 - [Ваш Email](mailto:example@example.com)
-- [Ваш LinkedIn](https://www.linkedin.com/in/ваш-профиль)
+
